@@ -1,4 +1,4 @@
-# 👋 **Bem-vindo ao meu perfil do GitHub!**
+# 👋 **Olá, seja bem-vindo(a)!**
 
 ### Sobre mim:
 Olá! Meu nome é Ruyter Araujo Rocha e sou um entusiasta de desenvolvimento web. Estou atualmente focado em aprender HTML, CSS e JavaScript para construir aplicações web incríveis. Sou um aprendiz rápido e tenho me desenvolvido rapidamente através de projetos práticos.
