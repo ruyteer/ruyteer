@@ -13,7 +13,7 @@ Olá! Meu nome é Ruyter Araujo Rocha e sou um entusiasta de desenvolvimento web
 ### 💼 Projetos:
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Projeto 1: Weather App](link-do-projeto)
+- [Projeto 1: Weather App](https://ruyteer.github.io/Portfolio/)
 - [Projeto 2: Wikipedia de Filmes](link-do-projeto)
 - [Projeto 3: Calculadora Simples](link-do-projeto)
 - [Projeto 3: Calculadora IMC](link-do-projeto)
@@ -27,7 +27,7 @@ Além de ser apaixonado por programação, sou músico e toco violão, teclado e
 ### 📫 Contato:
 Você pode me encontrar nas seguintes redes sociais:
 
-- [LinkedIn](link-do-linkedin)
-- [Twitter](link-do-twitter)
+- [LinkedIn](https://linkedin/ruyter)
+- [WhatsApp](wa.me/61999134129)
 
 ### ⚡ Vamos construir a web e fazer música juntos! 🚀
