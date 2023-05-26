@@ -11,12 +11,9 @@ Olá! Meu nome é Ruyter Araujo Rocha e sou um entusiasta de desenvolvimento web
           
 
 ### 💼 Projetos:
-Aqui estão alguns dos meus projetos mais recentes:
+Entre no meu portfolio para acessar os meus projetos mais recentes:
 
-- [Projeto 1: Weather App](https://ruyteer.github.io/Portfolio/)
-- [Projeto 2: Wikipedia de Filmes](link-do-projeto)
-- [Projeto 3: Calculadora Simples](link-do-projeto)
-- [Projeto 3: Calculadora IMC](link-do-projeto)
+- [Portfolio](https://ruyteer.github.io/Portfolio/)
 
 ### 👯 Colaboração:
 Estou sempre aberto a colaborações em projetos interessantes. Se você está procurando por um parceiro para um projeto ou tem alguma ideia em mente, sinta-se à vontade para entrar em contato!
