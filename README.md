@@ -1,15 +1,32 @@
-# 👋 **Olá, seja bem-vindo(a)!**
+<h1 align="left">Hi, i'm Ruyter Araujo!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruyteer&color=green" alt="Profile views" /> </p>
 
+- 🔥 Backend Developer & Musician: keyboardist, guitarist and singer 
 
-### 🌱 Estudando:
-<img width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  /> <img width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-          
+- 🔭 I’m 17 years old
 
-### 👯 Colaboração:
-Estou sempre aberto a colaborações em projetos interessantes. Se você está procurando por um parceiro para um projeto ou tem alguma ideia em mente, sinta-se à vontade para entrar em contato!
+- 💬 Contact me on discord: **.ruyter**
 
-### 🎵 Curiosidade:
-Além de ser apaixonado por programação, sou músico e toco violão, teclado e estou aprendendo bateria. Adoro explorar a conexão entre música e tecnologia.
+- ⚡ Looking for a job...
+<br><br>
+## 🛠 &nbsp;Tech Stack
 
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![SOLID](https://img.shields.io/badge/-SOLID-05122A?style=flat&logo=solid)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
-### ⚡ Vamos construir a web e fazer música juntos! 🚀
+<br><br>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ruyteer&show_icons=true&theme=radical"/>
+</p>
+-->
+
+<br><br>
