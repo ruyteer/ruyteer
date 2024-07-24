@@ -3,7 +3,7 @@
 
 - 🔥 Backend Developer & Musician: keyboardist, guitarist and singer 
 
-- 🔭 I’m 17 years old
+- 🔭 I’m 18 years old
 
 - 💬 Contact me on discord: **.ruyter**
 
