@@ -1,13 +1,12 @@
 <h1 align="left">Hi, i'm Ruyter Araujo!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruyteer&color=green" alt="Profile views" /> </p>
 
-- 🔥 Backend Developer & Musician: keyboardist, guitarist and singer 
+- 🔥 Backend Developer & Musician
 
-- 🔭 I’m 18 years old
+- 🔭 I’m 19 years old
 
 - 💬 Contact me on discord: **.ruyter**
 
-- ⚡ Looking for a job...
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 
