@@ -1,21 +1,23 @@
-<h1 align="left">Hi, i'm Ruyter Araujo!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruyteer&color=green" alt="Profile views" /> </p>
+### Ruyter Araujo
 
-- 🔥 Backend Developer & Musician
+Backend engineer building financial systems.
 
-- 🔭 I’m 19 years old
+I've spent my career in fintech, working on the parts where correctness matters most: payments, ledgers, transactions and the integrations around them. I care about systems that are simple, predictable and easy to trust.
 
-- 💬 Contact me on discord: **.ruyter**
+Outside of code, I'm a musician.
 
-<br><br>
-## 🛠 &nbsp;Tech Stack
+<br>
 
-![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![SOLID](https://img.shields.io/badge/-SOLID-05122A?style=flat&logo=solid)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+**Focus**
+
+- Payments, ledgers and financial integrations
+- Distributed systems and event-driven architecture
+- Reliability, consistency and observability in production
+
+**Stack**
+
+TypeScript · Node.js · React · Redis · Docker · AWS
+
+<br>
+
+Discord `.ruyter`
