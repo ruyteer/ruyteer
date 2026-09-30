@@ -19,13 +19,3 @@
 ![SOLID](https://img.shields.io/badge/-SOLID-05122A?style=flat&logo=solid)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-
-<br><br>
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ruyteer&show_icons=true&theme=radical"/>
-</p>
-
-
-<br><br>
